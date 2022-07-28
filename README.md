@@ -13,5 +13,6 @@ https://giraldolunacarmen.myportfolio.com/
 Open Source | Risk Management | Scanning |Security Strategy | Social Engineering |Vulnerability Management.
 
 - 📫 How to reach me: https://giraldolunacarmen.myportfolio.com/contact
+links:https://www.linkedin.com/in/carmengiraldodesarrolladoraweb-ux-ui/
 -
 -->
